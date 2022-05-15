@@ -36,3 +36,5 @@ let lightbox = new SimpleLightbox(".gallery__item a ", {
   captionPosition: "bottom",
   captionDelay: 250,
 });
+
+console.dir(lightbox);
